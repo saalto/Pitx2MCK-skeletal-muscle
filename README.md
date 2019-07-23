@@ -1,6 +1,6 @@
 # So-TA-manuscript
 
-# Open R-scripts 
+# Open the following R-scripts found in the R-scripts folder
 # 1. So_Analysis.R
 # 2. TA_Analysis.R
 # 3. SovsTA_Analysis_01.R
